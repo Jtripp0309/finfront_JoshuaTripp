@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'finweb-JoshuaTripp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_89B009650D334604A578D03FCD609D59 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BD49FAD156834485883132E9A4EAD1B5 }}
